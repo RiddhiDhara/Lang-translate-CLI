@@ -2,7 +2,7 @@
 const yargs = require("yargs");
 const utils = require("./utils.js");
 
-console.log("\n💻 Term-Translate CLI 🌍");
+console.log("\n💻 Lang-Translate CLI 🌍");
 console.log("----------------------------------")
 
 const usage = "\n🚀 Usage: tran <lang_name> sentence to be translated";
